@@ -1,0 +1,64 @@
+Package: botui
+Installed-Size: 2944
+Maintainer: me@christoph-heiss.me
+Architecture: armhf
+Version: 20210101-1
+Depends: libcv-dev,libqt4-dev,pcompiler,libwallaby
+Provides: botui
+Priority: extra
+Section: wallaby
+Filename: pool/main/b/botui/botui_20210101-1_armhf.deb
+Size: 1379180
+SHA256: b06d7381c730083dcbbbff0c88e2285ccf4e63bda607d587f16f7d748058fc00
+SHA1: a7ce88da95bea8900d770e0c3eb676f708eb9779
+MD5sum: 5f34865e9efdaf67485144be3d537467
+Description: botui for Wallaby
+
+Package: libkar
+Installed-Size: 140
+Maintainer: me@christoph-heiss.me
+Architecture: armhf
+Version: 20210101-1
+Depends: libqt4-dev
+Provides: libkar
+Priority: extra
+Section: wallaby
+Filename: pool/main/libk/libkar/libkar_20210101-1_armhf.deb
+Size: 27140
+SHA256: e25e422fa84f65510a333f72f2325c0ede61a8d7bc691c2be78d7aa3b516f54e
+SHA1: 031143089209222769357c13fd66e4fe555d69d7
+MD5sum: b4250e7636e36a9a97bc590d241e9fed
+Description: libkar for Wallaby
+
+Package: libwallaby
+Installed-Size: 2820
+Maintainer: me@christoph-heiss.me
+Architecture: armhf
+Version: 20210101-1
+Depends: libcv-dev,libjpeg-dev,libopencv-photo2.4v5
+Provides: libwallaby
+Priority: extra
+Section: wallaby
+Filename: pool/main/libw/libwallaby/libwallaby_20210101-1_armhf.deb
+Size: 222776
+SHA256: ec47566974eeaaefcbd7cf397ae89d954676c1b26e20b630547194280c5e65cc
+SHA1: bb8f2a42906ca483459e27c15450316226810fdd
+MD5sum: aa23df1ea81c04c788f24a462742e4f7
+Description: libwallaby for Wallaby
+
+Package: pcompiler
+Installed-Size: 340
+Maintainer: me@christoph-heiss.me
+Architecture: armhf
+Version: 20210101-1
+Depends: libqt4-dev,libkar
+Provides: pcompiler
+Priority: extra
+Section: wallaby
+Filename: pool/main/p/pcompiler/pcompiler_20210101-1_armhf.deb
+Size: 65908
+SHA256: 32d391c74b957fa171b337c1b1b9df826ec43a9781c0c104bf2712040bc5fe37
+SHA1: 73562150003cf77bf92a68292d0f422a198305c7
+MD5sum: 404b121bc9457938b6c86d7e01069684
+Description: pcompiler for Wallaby
+

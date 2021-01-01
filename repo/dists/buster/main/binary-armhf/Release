@@ -1,0 +1,4 @@
+Component: main
+Origin: wombat-package-repo.robo4you.at/repo
+Architecture: armhf
+Description: F-WuTS Wombat Debian package repository

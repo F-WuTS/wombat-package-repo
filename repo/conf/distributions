@@ -1,0 +1,6 @@
+Origin: wombat-package-repo.robo4you.at/repo
+Codename: buster
+Architectures: armhf
+Components: main
+Description: F-WuTS Wombat Debian package repository
+SignWith: A8BC04072E306141D2FB0B0D270AF7ABC8EDAB12

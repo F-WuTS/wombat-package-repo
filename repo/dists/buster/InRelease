@@ -1,0 +1,35 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: wombat-package-repo.robo4you.at/repo
+Codename: buster
+Date: Fri, 01 Jan 2021 21:31:03 UTC
+Architectures: armhf
+Components: main
+Description: F-WuTS Wombat Debian package repository
+MD5Sum:
+ 83d88984eace7da6a60d34a88569774f 1883 main/binary-armhf/Packages
+ cb4716d98e7e23439195ae3bb958e24a 762 main/binary-armhf/Packages.gz
+ 706e5b5e049d6f9740b3fc6a0718f491 134 main/binary-armhf/Release
+SHA1:
+ 052382e20938eecef2414f01d503ed35ecc5b527 1883 main/binary-armhf/Packages
+ acfab9b29e39c3b0beac6e2b5e083a67dcc61c7e 762 main/binary-armhf/Packages.gz
+ f66738d9564100c8801e42bc2c4b598465a1175f 134 main/binary-armhf/Release
+SHA256:
+ e31ec88f323e89ae803c694cd9db6b97f3efd941484d9caeacd35ad0ad5b03d2 1883 main/binary-armhf/Packages
+ 90c481d650f8d692fb1a96da4803d13b99a84a47b60a0b3f9415b331425e3caf 762 main/binary-armhf/Packages.gz
+ 6cb512a3fa41f50be7b3d9694b12088c40cab67487879da7e843e47dbb07d1ff 134 main/binary-armhf/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEqLwEBy4wYUHS+wsNJwr3q8jtqxIFAl/vlJcACgkQJwr3q8jt
+qxK0EgwAoux5hVaqHvmfnU6tfQcrjXVBzYAAkalvBJ3bKc57+QxNZtPdcPH44EKw
+dAd/vdPjxmi26I49jqEUkfKG6LbHluZwnothd2wT0LDqlYNcOxG/5L+cuUmc8rCz
+3xbN3yTM0A5J/rnWteC05DPaL6xA9auc3eBE7PZR6bIJtjzpc+/IHTqHZxlAbdSl
+RJfh9oitDHOGjLW9MoYIDkYUkrB7ESodYVFYNHwK3XUcF/8VaVMEGvT/3dMFtUP6
+ogfz//iBHbd3rEGW1mWT5hhgIsDznkeaw43Vz7ViBCLEzpJ1TEAGhpKcRux+b0gS
+/innl5s4tXELuMcJF53Jal2KHYp2bJileN2Od6hwZIWgYXfMPtMXsf6xChKIUImr
+//4IeKjMnhYeqznVJfVokIaj36jqNJlE8KFPfAMIC04oEMCsi45NdysVwI945pSm
+KBCatgcLZ/kWPMgUPBzn95+9tZqXPLvE5rm7lP9c6C4ZFCe293Owe2WPqSj6kfKp
+PmYP6BF4
+=g489
+-----END PGP SIGNATURE-----
