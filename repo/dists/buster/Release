@@ -1,18 +1,18 @@
 Origin: wombat-package-repo.robo4you.at/repo
 Codename: buster
-Date: Fri, 01 Jan 2021 22:25:28 UTC
+Date: Mon, 04 Jan 2021 16:56:41 UTC
 Architectures: armhf
 Components: main
 Description: F-WuTS Wombat Debian package repository
 MD5Sum:
- 0e0246a397a11cecde8d737384e0119c 1906 main/binary-armhf/Packages
- 20655ec6f83ed521c366d57991a94481 775 main/binary-armhf/Packages.gz
+ eba87583a7a4fe9ea054ed5c22c438f5 1906 main/binary-armhf/Packages
+ 59fc34ba117601f9e189e10490fac859 778 main/binary-armhf/Packages.gz
  706e5b5e049d6f9740b3fc6a0718f491 134 main/binary-armhf/Release
 SHA1:
- 59b77195ef6372ca9fd87f61ff6b91b7f27016fa 1906 main/binary-armhf/Packages
- 06c4fa42f728e5767fc34036c048a866c06dae55 775 main/binary-armhf/Packages.gz
+ d83ab7617ff716a85da78dddbd7868a80a505111 1906 main/binary-armhf/Packages
+ 6077cddc10bf0d5125f6647c7df146ea17617374 778 main/binary-armhf/Packages.gz
  f66738d9564100c8801e42bc2c4b598465a1175f 134 main/binary-armhf/Release
 SHA256:
- 690706a67a1b84d571e21e0f9275a0c0bd6721f6c900bfece49e4b7de1326c67 1906 main/binary-armhf/Packages
- 558d1bb2d2688cb952cdf66ce4608303c3256a68bc45f562de898b1df129f4a6 775 main/binary-armhf/Packages.gz
+ bbb239e1016adec31c916ee4774b5793cf4160a78e13bb9169ec6b93fb95398a 1906 main/binary-armhf/Packages
+ 7c7ec1c2727587c2b3c66ca21ca7aeada761febbdb24445cc64f4f65b61951c0 778 main/binary-armhf/Packages.gz
  6cb512a3fa41f50be7b3d9694b12088c40cab67487879da7e843e47dbb07d1ff 134 main/binary-armhf/Release

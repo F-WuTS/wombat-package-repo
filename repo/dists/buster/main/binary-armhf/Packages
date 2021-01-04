@@ -1,64 +1,64 @@
 Package: botui
-Installed-Size: 2944
+Installed-Size: 4284
 Maintainer: me@christoph-heiss.me
 Architecture: armhf
-Version: 20210101-2
+Version: 20210104-2
 Depends: libopencv-dev,libqt4-dev,pcompiler,libwallaby
 Provides: botui
 Priority: extra
 Section: wallaby
-Filename: pool/main/b/botui/botui_20210101-2_armhf.deb
-Size: 1379852
-SHA256: 41cf1149f94d374d79242a30d3d7c7318261a763afb468955fe0dc7d0cdaf7cb
-SHA1: fc6cc30f71833b997a71038ce26894a4a6766e81
-MD5sum: af06f6ac2c457df0fca9d2330f4e0b32
+Filename: pool/main/b/botui/botui_20210104-2_armhf.deb
+Size: 1786612
+SHA256: 717bf006b0e0d6f3089ff3675d6d15c689277523246b27e714c75ef659f7aaad
+SHA1: 8c0501841278c153a28349a05170b0b750aef0e4
+MD5sum: 13cabd2f97f4adaccea137bd54d7a395
 Description: botui for Wallaby
 
 Package: libkar
 Installed-Size: 140
 Maintainer: me@christoph-heiss.me
 Architecture: armhf
-Version: 20210101-2
+Version: 20210104-2
 Depends: libqt4-dev
 Provides: libkar
 Priority: extra
 Section: wallaby
-Filename: pool/main/libk/libkar/libkar_20210101-2_armhf.deb
-Size: 27220
-SHA256: ab6db86b272be659a6e34223e10f0e248ee4916923b78966cf498bb3958b1c2e
-SHA1: cc33c64fa538e79d4a894d72cc3f795737587219
-MD5sum: 2312af112884b8177c1640a8b349f2f4
+Filename: pool/main/libk/libkar/libkar_20210104-2_armhf.deb
+Size: 27148
+SHA256: 4c84d4a6beecbc8cdb2098f4834da4d94c6984c6d0a44a1a3ad074d2cefe28d8
+SHA1: 3e7b8b49f673c84d2c45832161574e505e049101
+MD5sum: f12c09bba6fc1814690ebfb1d83d228d
 Description: libkar for Wallaby
 
 Package: libwallaby
 Installed-Size: 2820
 Maintainer: me@christoph-heiss.me
 Architecture: armhf
-Version: 20210101-2
+Version: 20210104-2
 Depends: libzbar-dev,libopencv-dev,libjpeg-dev,python-dev,doxygen,swig
 Provides: libwallaby
 Priority: extra
 Section: wallaby
-Filename: pool/main/libw/libwallaby/libwallaby_20210101-2_armhf.deb
-Size: 223628
-SHA256: 4341e1bde38e4c2464f074c25c96566b35049e9e2083678342653b3f59969c3b
-SHA1: ae2256cee29c55ec3d0423e067df29ae732c6614
-MD5sum: 47dae908b9cae77d5f1f4a005e98a8af
+Filename: pool/main/libw/libwallaby/libwallaby_20210104-2_armhf.deb
+Size: 223560
+SHA256: 6819c145851013fe68058e92c0662d659adf53cc1efd07f872ecd4e5b54d777f
+SHA1: ed860cfe246348af2ac72f494f42842166f05e4f
+MD5sum: d4176e7549f329f75c34511852a4da45
 Description: libwallaby for Wallaby
 
 Package: pcompiler
 Installed-Size: 340
 Maintainer: me@christoph-heiss.me
 Architecture: armhf
-Version: 20210101-2
+Version: 20210104-2
 Depends: libqt4-dev,libkar
 Provides: pcompiler
 Priority: extra
 Section: wallaby
-Filename: pool/main/p/pcompiler/pcompiler_20210101-2_armhf.deb
-Size: 65916
-SHA256: e49ba2adf86649b081136cf4a58d4abf6bebd3f907ee68c8c4aff92def5fead6
-SHA1: cb1706d4f6df33db9d034d256e92d4e88bfc684d
-MD5sum: 8aabd2fa6abf0710c9bdbaf0d80f583f
+Filename: pool/main/p/pcompiler/pcompiler_20210104-2_armhf.deb
+Size: 65996
+SHA256: be671a07e42b6d421bc3e179f38c1c880ffbab5fe410dedb9b5b9a937a908da1
+SHA1: f7fdd8c7978542ec8a27a42f503006be45e099a6
+MD5sum: 8cddb86d2491382234647652bda53b35
 Description: pcompiler for Wallaby
 
